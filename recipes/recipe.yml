@@ -28,6 +28,8 @@ modules:
         - steam
         - helium-bin
         - distrobox
+        - gnome-calculator.x86_64
+        - gnome-text-editor.x86_64
         - gnome-shell-extension-dash-to-dock.noarch
         - gnome-shell-extension-pop-shell.noarch
     remove:
